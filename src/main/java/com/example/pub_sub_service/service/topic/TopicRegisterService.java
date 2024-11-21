@@ -1,4 +1,4 @@
-package com.example.pub_sub_service.service;
+package com.example.pub_sub_service.service.topic;
 
 import com.example.pub_sub_service.domain.PublisherId;
 import com.example.pub_sub_service.domain.Topic.Topic;
